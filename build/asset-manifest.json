@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/gozuko_mint/static/css/main.273b4c92.chunk.css",
+    "main.js": "/gozuko_mint/static/js/main.61847b3d.chunk.js",
+    "main.js.map": "/gozuko_mint/static/js/main.61847b3d.chunk.js.map",
+    "runtime-main.js": "/gozuko_mint/static/js/runtime-main.363f2fc1.js",
+    "runtime-main.js.map": "/gozuko_mint/static/js/runtime-main.363f2fc1.js.map",
+    "static/js/2.02e8ad33.chunk.js": "/gozuko_mint/static/js/2.02e8ad33.chunk.js",
+    "static/js/2.02e8ad33.chunk.js.map": "/gozuko_mint/static/js/2.02e8ad33.chunk.js.map",
+    "static/js/3.32544766.chunk.js": "/gozuko_mint/static/js/3.32544766.chunk.js",
+    "static/js/3.32544766.chunk.js.map": "/gozuko_mint/static/js/3.32544766.chunk.js.map",
+    "static/js/4.b1c04cfe.chunk.js": "/gozuko_mint/static/js/4.b1c04cfe.chunk.js",
+    "static/js/4.b1c04cfe.chunk.js.map": "/gozuko_mint/static/js/4.b1c04cfe.chunk.js.map",
+    "static/js/5.9ad4e209.chunk.js": "/gozuko_mint/static/js/5.9ad4e209.chunk.js",
+    "static/js/5.9ad4e209.chunk.js.map": "/gozuko_mint/static/js/5.9ad4e209.chunk.js.map",
+    "index.html": "/gozuko_mint/index.html",
+    "static/css/main.273b4c92.chunk.css.map": "/gozuko_mint/static/css/main.273b4c92.chunk.css.map",
+    "static/js/2.02e8ad33.chunk.js.LICENSE.txt": "/gozuko_mint/static/js/2.02e8ad33.chunk.js.LICENSE.txt",
+    "static/media/5.a35f3ee8.png": "/gozuko_mint/static/media/5.a35f3ee8.png",
+    "static/media/index.css": "/gozuko_mint/static/media/bg1.68378c9b.png",
+    "static/media/navbar.css": "/gozuko_mint/static/media/bg2.d70e65a0.png",
+    "static/media/logo_1.379f89cf.png": "/gozuko_mint/static/media/logo_1.379f89cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.363f2fc1.js",
+    "static/js/2.02e8ad33.chunk.js",
+    "static/css/main.273b4c92.chunk.css",
+    "static/js/main.61847b3d.chunk.js"
+  ]
+}
